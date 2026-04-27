@@ -1,5 +1,5 @@
 def main():
-    print("Hello from practica!")
+    print("Hello from forkfeo!")
 
 
 if __name__ == "__main__":
